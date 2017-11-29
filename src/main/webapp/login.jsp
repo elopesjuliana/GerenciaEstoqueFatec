@@ -46,18 +46,13 @@
 				    <th>Senha:</th>
 				  </tr>
 				  <tr>
-				    <td>Antonio</td>
-				    <td>antonio@email.com</td>
-   				    <td>1234</td>
-				  </tr>
-				  <tr>
 				    <td>juliana</td>
 				    <td>ju@email.com</td>
  				    <td>1234</td>
 				  </tr>
 				  <tr>
 				    <td>Teste</td>
-				    <td>email@email.com</td>
+				    <td>teste@teste.com</td>
 				    <td>1234</td>
 				  </tr>
 				</table>

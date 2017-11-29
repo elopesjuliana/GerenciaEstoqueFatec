@@ -1,6 +1,6 @@
 # GerenciaEstoqueJSP
 
-Este repositório contém um projeto desenvolvido para a disciplina de <strong>Laboratório de Engenharia de Software (FATEC Zona Leste)</strong>, no mesmo se encontram diversos conceitos reunidos, compondo assim um <b>CRUD</b> básico das seguintes entidades:
+Este repositório contém um projeto desenvolvido para a disciplina de Laboratório de Engenharia de Software (FATEC), no mesmo se encontram diversos conceitos reunidos, compondo assim um <b>CRUD</b> básico das seguintes entidades:
 
 <b>
     <ul>

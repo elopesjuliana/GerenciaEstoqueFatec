@@ -13,12 +13,13 @@ public class DBUtil {
 			String driverName = "com.mysql.jdbc.Driver";                        
 			Class.forName(driverName);
 			/* MUDAR PELAS INFORMACOES DO PROVEDOR DO BD*/
-			String serverName = "localhost";    
-            String mydatabase = "estoque";        
-            String username = "root";              
-            String password = "123456";      
+			//String serverName = "localhost";    
+            //String mydatabase = "estoque";        
+            String username = "sql10207809";              
+            String password = "Up5erDyWwx";      
             /* MUDAR PELAS INFORMACOES DO PROVEDOR DO BD*/
-            String url = "jdbc:mysql://" + serverName + "/" + mydatabase;
+           //String url = "jdbc:mysql://" + serverName + "/" + mydatabase;
+			String url = "jdbc:mysql://sql10.freemysqlhosting.net:3306/sql10207809";
             conn = DriverManager.getConnection(url, username, password);
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
