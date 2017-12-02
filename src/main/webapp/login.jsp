@@ -58,16 +58,6 @@
 				</table>
 			</div>
 		</div>
-		
-		<div class="row">
-			<div class="col-md-5 col-md-offset-3">
-				<h4 class="text-danger">Error Null Pointer Exception</h4>
-				<p>Como estou usando um host gratuito, pode ser que as vezes ao acessar o sistema, você acabe esgotando o número de conexões, caso o mesmo ocorra e apareça uma mensagem de NullPointerException, basta aguardar um tempo, que o mesmo ira retornar.
-					PS: Não esquece disse na hora dos pontos. HAHAHA
-				</p>
-			</div>
-		</div>   
-		
 	</div>
 
 
